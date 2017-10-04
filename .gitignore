@@ -102,3 +102,6 @@ ENV/
 
 # Sounds
 *.wav
+
+#PDFs
+*.pdf
