@@ -103,5 +103,9 @@ ENV/
 # Sounds
 *.wav
 
-#PDFs
+#PDFs and text
 *.pdf
+*.txt
+
+# PDA folder
+PDA/
