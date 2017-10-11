@@ -106,6 +106,7 @@ ENV/
 #PDFs and text
 *.pdf
 *.txt
+*.csv
 
 # PDA folder
 PDA/
