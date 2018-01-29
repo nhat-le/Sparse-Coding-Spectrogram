@@ -110,3 +110,6 @@ ENV/
 
 # PDA folder
 PDA/
+
+#pickl files
+*.pckl
